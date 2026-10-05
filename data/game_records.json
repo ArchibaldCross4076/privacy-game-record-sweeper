@@ -1,0 +1,16 @@
+[
+  {
+    "id": "expired-player-banner",
+    "kind": "player_asset",
+    "objectKey": "examples/players/banner.png",
+    "lastActiveAt": "2025-01-01T00:00:00.000Z",
+    "legalHold": false
+  },
+  {
+    "id": "held-moderation-evidence",
+    "kind": "moderation_queue",
+    "objectKey": "examples/moderation/evidence.json",
+    "lastActiveAt": "2025-01-01T00:00:00.000Z",
+    "legalHold": true
+  }
+]
